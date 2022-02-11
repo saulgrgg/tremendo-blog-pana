@@ -55,7 +55,8 @@ footer{
     padding:.5em;
 }
 .cohete{
-    width:900px;
+    display:flex;
+    width:100%;
 }
 
 
